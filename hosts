@@ -29,25 +29,22 @@ ubuntu-2.build
 ubuntu-3.build
 
 [slaves]
-dib.tangent
 centos-1.build
 centos-2.build
 centos-3.build
 debian-1.build
 debian-2.build
-up.tangent
-dib.tangent
 docs.libmemcached.org
 fedora-1.build
 fedora-2.build
-gaz.tangent
 fedora19.build 
 gaz.tangent
-fedora19.build 
+dib.tangent
 soup.tangent
 ubuntu-1.build
 ubuntu-2.build
 ubuntu-3.build
+up.tangent
 
 # If you have multiple hosts following a pattern you can specify
 # them like this:
