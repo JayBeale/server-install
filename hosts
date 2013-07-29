@@ -62,3 +62,9 @@ ns6.tangent.org
 docs.libmemcached.org
 gearman.org
 
+[localhost]
+localhost
+
+[targets]
+
+localhost              ansible_connection=local
