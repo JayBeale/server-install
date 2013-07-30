@@ -26,7 +26,7 @@ gaz.tangent
 fedora19.build 
 fedora-6.build
 fedora-903053.build
-fedora-1260703.build
+#fedora-1260703.build
 fedora-793187.build
 
 [ubuntu]
