@@ -19,14 +19,23 @@ debian-2.build
 docs.libmemcached.org
 fedora-1.build
 fedora-2.build
+fedora-3.build
+fedora-4.build
+fedora-5.build
 gaz.tangent
 fedora19.build 
+fedora-6.build
+fedora-903053.build
+fedora-1260703.build
+fedora-793187.build
 
 [ubuntu]
 soup.tangent
 ubuntu-1.build
 ubuntu-2.build
 ubuntu-3.build
+ubuntu-4.build
+ubuntu-1260991.build
 
 [slaves]
 centos-1.build
