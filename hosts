@@ -1,4 +1,5 @@
 # Ex 1: Ungrouped hosts, specify before any group headers.
+localhost
 
 # Ex 2: A collection of hosts belonging to the 'webservers' group
 
@@ -28,6 +29,7 @@ fedora-6.build
 fedora-903053.build
 #fedora-1260703.build
 fedora-793187.build
+fedora-1375352877.build
 
 [ubuntu]
 soup.tangent
@@ -47,6 +49,7 @@ docs.libmemcached.org
 fedora-1.build
 fedora-2.build
 fedora19.build 
+fedora-1375352877.build
 gaz.tangent
 dib.tangent
 soup.tangent
@@ -70,10 +73,3 @@ ns6.tangent.org
 [webservers]
 docs.libmemcached.org
 gearman.org
-
-[localhost]
-localhost
-
-[targets]
-
-localhost              ansible_connection=local
