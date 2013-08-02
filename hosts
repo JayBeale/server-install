@@ -1,61 +1,39 @@
 # Ex 1: Ungrouped hosts, specify before any group headers.
-localhost
+#localhost
 
 # Ex 2: A collection of hosts belonging to the 'webservers' group
 
 [osx]
-dib.tangent
-
-[centos]
-centos-1.build
-centos-2.build
-centos-3.build
-up.tangent
-
-[debian]
-debian-1.build
-debian-2.build
-
-[fedora]
-docs.libmemcached.org
-fedora-1.build
-fedora-2.build
-fedora-3.build
-fedora-4.build
-fedora-5.build
-gaz.tangent
-fedora19.build 
-fedora-6.build
-fedora-903053.build
-#fedora-1260703.build
-fedora-793187.build
-fedora-1375352877.build
-
-[ubuntu]
-soup.tangent
-ubuntu-1.build
-ubuntu-2.build
-ubuntu-3.build
-ubuntu-4.build
-ubuntu-1260991.build
+#dib.tangent
 
 [slaves]
-centos-1.build
-centos-2.build
-centos-3.build
-debian-1.build
-debian-2.build
-docs.libmemcached.org
-fedora-1.build
-fedora-2.build
-fedora19.build 
-fedora-1375352877.build
-gaz.tangent
-dib.tangent
-soup.tangent
-ubuntu-1.build
-ubuntu-2.build
-ubuntu-3.build
+#fedora-1260703.build
+#centos-1.build
+centos-1375404279.build
+#centos-2.build
+#centos-3.build
+#debian-1.build
+#debian-2.build
+#dib.tangent
+#docs.libmemcached.org
+#fedora-1.build
+#fedora-1375352877.build
+fedora-1375392542.build
+#fedora-2.build
+#fedora-3.build
+#fedora-4.build
+#fedora-5.build
+#fedora-6.build
+#fedora-793187.build
+#fedora-903053.build
+#fedora19.build 
+#gaz.tangent
+#soup.tangent
+#ubuntu-1.build
+#ubuntu-1260991.build
+#ubuntu-2.build
+#ubuntu-3.build
+#ubuntu-4.build
 up.tangent
 
 # If you have multiple hosts following a pattern you can specify
@@ -68,8 +46,8 @@ up.tangent
 [dbservers]
 
 [dnsservers]
-ns6.tangent.org
+#ns6.tangent.org
 
 [webservers]
-docs.libmemcached.org
-gearman.org
+#docs.libmemcached.org
+#gearman.org
