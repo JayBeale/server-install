@@ -52,3 +52,7 @@ ubuntu-1375431679.build
 [webservers]
 #docs.libmemcached.org
 #gearman.org
+
+[mailman]
+truffle.tangent.org
+
