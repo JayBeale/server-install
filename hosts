@@ -10,8 +10,8 @@
 #fedora-1260703.build
 #centos-1.build
 centos-1375404279.build
+centos-6-3-1375845194.build
 #centos-2.build
-#centos-3.build
 #debian-1.build
 #debian-2.build
 #dib.tangent
@@ -55,4 +55,3 @@ ubuntu-1375431679.build
 
 [mailman]
 truffle.tangent.org
-
