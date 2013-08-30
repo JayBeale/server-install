@@ -12,8 +12,11 @@ centos-6-3-1375845194.build
 debian-7-1-2074351.build
 fedora-1375392542.build
 ubuntu-3.build
-up.tangent
+upy.tangent
 ubuntu-1375431679.build
+par-ubuntu-12-04.build
+par-debian.build
+par-centos-6-4.build
 
 # If you have multiple hosts following a pattern you can specify
 # them like this:
@@ -33,3 +36,6 @@ ubuntu-1375431679.build
 
 [mailman]
 truffle.tangent.org
+
+[targets]
+localhost              ansible_connection=local
