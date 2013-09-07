@@ -17,6 +17,10 @@ ubuntu-1375431679.build
 par-ubuntu-12-04.build
 par-debian.build
 par-centos-6-4.build
+15.185.112.33
+15.185.166.87
+15.185.107.111
+
 
 # If you have multiple hosts following a pattern you can specify
 # them like this:
