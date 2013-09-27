@@ -41,6 +41,3 @@ docs.tangent.org
 
 [mailman]
 truffle.tangent.org
-
-[targets]
-localhost              ansible_connection=local
