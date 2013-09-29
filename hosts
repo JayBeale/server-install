@@ -12,7 +12,6 @@ centos-6-3-1375845194.build
 debian-7-1-2074351.build
 fedora-1375392542.build
 ubuntu-3.build
-up.tangent
 ubuntu-1375431679.build
 par-ubuntu-12-04
 par-debian.build
@@ -21,6 +20,8 @@ docs.tangent.org
 par-ubuntu-12-04-2
 debian-7
 
+[openstack]
+up.tangent
 
 # If you have multiple hosts following a pattern you can specify
 # them like this:
