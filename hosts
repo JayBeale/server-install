@@ -9,7 +9,7 @@ localhost
 [slaves]
 par-ubuntu-12-04
 par-debian.build
-par-centos-6-4.
+par-centos-6-4
 docs.tangent.org
 10.0.2.118 
 debian-7
