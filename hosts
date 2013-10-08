@@ -7,12 +7,12 @@ localhost
 #dib.tangent
 
 [slaves]
-par-ubuntu-12-04
-par-debian.build
 centos-6-4v2.build
-docs.tangent.org
-10.0.2.118 
 debian-7
+gaz.tangent
+par-debian.build
+par-ubuntu-12-04
+par-ubuntu-12-04-2
 
 [openstack]
 up.tangent
@@ -30,8 +30,8 @@ up.tangent
 #ns6.tangent.org
 
 [webservers]
-#docs.libmemcached.org
-#gearman.org
+portabello.tangent.org
+gearman.org
 
 [mailman]
 truffle.tangent.org
