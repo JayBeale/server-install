@@ -4,7 +4,7 @@ localhost
 # Ex 2: A collection of hosts belonging to the 'webservers' group
 
 [osx]
-#dib.tangent
+builder.haus
 
 [slaves]
 centos-6-4v2.build
