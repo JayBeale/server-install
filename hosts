@@ -14,6 +14,8 @@ par-debian.build
 par-ubuntu-12-04
 par-ubuntu-12-04-2
 
+[masters]
+
 [openstack]
 up.tangent
 
