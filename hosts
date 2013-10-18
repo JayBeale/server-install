@@ -1,5 +1,6 @@
 # Ex 1: Ungrouped hosts, specify before any group headers.
 localhost
+up.tangent
 
 # Ex 2: A collection of hosts belonging to the 'webservers' group
 
@@ -17,7 +18,6 @@ par-ubuntu-12-04-2
 [masters]
 
 [openstack]
-up.tangent
 
 # If you have multiple hosts following a pattern you can specify
 # them like this:
