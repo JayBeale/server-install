@@ -1,6 +1,7 @@
 # Ex 1: Ungrouped hosts, specify before any group headers.
 localhost
-up.tangent
+up.haus
+sketch.haus
 raspberrypi.tangent
 
 # Ex 2: A collection of hosts belonging to the 'webservers' group
@@ -9,12 +10,8 @@ raspberrypi.tangent
 builder.haus
 
 [slaves]
-centos-6-4v2.build
-debian-7
-gaz.tangent
-par-debian.build
-par-ubuntu-12-04
-par-ubuntu-12-04-2
+gaz.haus
+soup.haus
 
 [masters]
 198.101.238.109
