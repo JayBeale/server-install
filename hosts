@@ -12,6 +12,7 @@ builder.haus
 gaz.haus
 soup.haus
 up.haus
+10.211.55.16
 
 [masters]
 198.101.238.109
@@ -34,3 +35,9 @@ gearman.org
 
 [mailman]
 truffle.tangent.org
+
+[developer]
+gaz.haus
+
+[remote]
+gaz.haus
