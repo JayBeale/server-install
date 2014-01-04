@@ -6,7 +6,8 @@ raspberrypi.tangent
 # Ex 2: A collection of hosts belonging to the 'webservers' group
 
 [osx]
-builder.haus
+go.haus
+aloha.haus
 
 [slaves]
 gaz.haus
