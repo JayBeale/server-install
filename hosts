@@ -13,11 +13,9 @@ aloha.haus
 gaz.haus
 soup.haus
 up.haus
-10.211.55.16
-10.211.55.17
 
 [masters]
-198.101.238.109
+sketch.haus
 
 # If you have multiple hosts following a pattern you can specify
 # them like this:
@@ -43,3 +41,6 @@ gaz.haus
 
 [remote]
 gaz.haus
+
+[haus]
+up.haus
