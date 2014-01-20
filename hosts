@@ -33,7 +33,7 @@ sketch.haus
 
 [webservers]
 portabello.tangent.org
-gearman.org
+web1.cloud
 
 [mailman]
 truffle.tangent.org
