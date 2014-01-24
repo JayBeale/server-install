@@ -1,5 +1,5 @@
 # Ex 1: Ungrouped hosts, specify before any group headers.
-localhost
+#localhost
 sketch.haus
 raspberrypi.tangent
 
