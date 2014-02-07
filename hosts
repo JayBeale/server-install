@@ -44,10 +44,13 @@ sketch.haus
 up.haus
 
 [remote]
-gaz.haus
+#gaz.haus
 
 [haus]
 up.haus
 gaz.haus
 soup.haus
+sketch.haus
+
+[syslog]
 sketch.haus
