@@ -55,3 +55,6 @@ sketch.haus
 
 [syslog]
 sketch.haus
+
+[bastion]
+up.haus
