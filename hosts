@@ -1,5 +1,4 @@
 # Ex 1: Ungrouped hosts, specify before any group headers.
-#localhost
 sketch.haus
 raspberrypi.tangent
 
@@ -15,6 +14,7 @@ soup.haus
 up.haus
 go.haus
 aloha.haus
+50.56.249.165
 
 [masters]
 sketch.haus
